@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "test@test.com",
+      "password": "test"
+    },
+    {
+      "id": 2,
+      "email": "baran@baran.com",
+      "password": "baran"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "customerName": "Furkan",
+      "customerAge": 20
+    },
+    {
+      "id": 2,
+      "customerName": "Baran",
+      "customerAge": 30
+    },
+    {
+      "id": 3,
+      "customerName": "Ali",
+      "customerAge": 40
+    },
+    {
+      "id": 4,
+      "customerName": "Adem",
+      "customerAge": 50
+    }
+  ],
+  "products": [
+    {
+      "id": "FGT60FTK20099832",
+      "productModel": "FortiGate 60F",
+      "description": "",
+      "partner": "Rakort Bilgi Teknolojileri",
+      "registrationDate": "2023-01-01",
+      "shipDate": "2022-12-12",
+      "warranty": "1",
+      "warrantySupportStartDate": "2014-01-01",
+      "warrantySupportstartEvent": "Unit initial connection with Fortinet servers"
+    },
+    {
+      "id": "FGT60FTK20099833",
+      "productModel": "FortiGate 60F",
+      "description": "",
+      "partner": "TechSolutions Inc.",
+      "registrationDate": "2023-02-15",
+      "shipDate": "2023-02-10",
+      "warranty": "1",
+      "warrantySupportStartDate": "2015-03-20",
+      "warrantySupportstartEvent": "Installation completed by certified technician"
+    },
+    {
+      "id": "FGT60FTK20099834",
+      "productModel": "FortiGate 60F",
+      "description": "",
+      "partner": "CyberGuard Security",
+      "registrationDate": "2023-03-20",
+      "shipDate": "2023-03-15",
+      "warranty": "2",
+      "warrantySupportStartDate": "2016-05-10",
+      "warrantySupportstartEvent": "Network configuration finalized"
+    },
+    {
+      "id": "FGT60FTK20099835",
+      "productModel": "FortiGate 60F",
+      "description": "",
+      "partner": "SecureNet Solutions",
+      "registrationDate": "2023-04-25",
+      "shipDate": "2023-04-20",
+      "warranty": "3",
+      "warrantySupportStartDate": "2017-07-01",
+      "warrantySupportstartEvent": "Firmware update to latest version"
+    },
+    {
+      "id": "FGT60FTK20099836",
+      "productModel": "FortiGate 60F",
+      "description": "",
+      "partner": "DataShield Technologies",
+      "registrationDate": "2023-05-30",
+      "shipDate": "2023-05-25",
+      "warranty": "2",
+      "warrantySupportStartDate": "2018-09-15",
+      "warrantySupportstartEvent": "Security audit conducted"
+    }
+  ],
+  "licenses": []
+}
